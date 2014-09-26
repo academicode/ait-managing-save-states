@@ -1,4 +1,5 @@
-animating-views
-===============
+ait-managing-save-states
+========================
 
-The dedicated repository for the AcademiCode lesson "Animating Views".
+The repository for the source code for the third intermediate Android topic in AcademiCode.
+
